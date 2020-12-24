@@ -4,17 +4,17 @@
 ## Ritwik Ranjan
 
 > Delhi Technological University <br>
-> Batch of 2022 (B.Tech. in Computer Engineering) <br>
-> Upcoming Intern at Citibank (Summers'21) <br>
+> Batch of 2022 (B.Tech. in <b>Computer Engineering</b>) <br>
+> Upcoming Intern at <b>Citibank</b> (Summers'21) <br>
 
 ### Positions of Responsibilities
 
-> Membership Coordinator, IEEE-DTU <br>
-> Database Executive, NSS-DTU <br>
+> Membership Coordinator, <i>IEEE-DTU</i> <br>
+> Database Executive, <i>NSS-DTU</i> <br>
 
 ### Technical Experience
 
-> Flutter Developer at EnrichAI <br>
+> Flutter Developer at <i>EnrichAI</i> <br>
 > Reach me at <a href='wa.me/919873388660'> WhatsApp</a>, <a href='https://www.linkedin.com/in/ranjanritwik/'> LinkedIn </a> <br>
 > Find my Resume @ bit.ly/ritwik_2k18co296 <br>
 
