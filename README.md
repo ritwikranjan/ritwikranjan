@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 Software Engineer
 
-I'm a results-driven software engineer with a passion for creating scalable, efficient, and innovative cloud-based solutions. Currently, I’m working as an SDE 1 at **AWS CloudWatch** in Dublin, where I handle massive-scale cloud monitoring services. My experience spans across diverse technologies and my work is focused on improving scalability, performance, and the overall cloud experience.
+I'm a results-driven software engineer with a passion for creating scalable, efficient, and innovative cloud-based solutions. Currently, I’m working as an SDE 2 at **Microsoft Azure Core** in Dublin. My experience spans across diverse technologies and my work is focused on improving scalability, performance, and the overall cloud experience.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ritwikranjan&color=blueviolet)
 
