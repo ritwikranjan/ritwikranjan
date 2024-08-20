@@ -1,35 +1,29 @@
+# 👋 Hi, I'm Ritwik Ranjan
 
-# About Me
+### 🧑‍💻 Software Engineer
 
-## Ritwik Ranjan
+I'm a results-driven software engineer with a passion for creating scalable, efficient, and innovative cloud-based solutions. Currently, I’m working as an SDE 1 at **AWS CloudWatch** in Dublin, where I handle massive-scale cloud monitoring services. My experience spans across diverse technologies and my work is focused on improving scalability, performance, and the overall cloud experience.
 
-> Delhi Technological University <br>
-> Batch of 2022 (B.Tech. in <b>Computer Engineering</b>) <br>
-> Upcoming Intern at <b>Citibank</b> (Summers'21) <br>
+![Profile Views](https://komarev.com/ghpvc/?username=ritwikranjan&color=blueviolet)
 
-### Positions of Responsibilities
+## 🔧 Technologies & Tools
+- **Languages:** Java, Kotlin, Python, TypeScript, Ruby, Bash, C/C++
+- **Frameworks & Tools:** Spring, CDK, AWS, OpenSearch, Node.js
+- **Specialties:** Cloud Monitoring, Scalability, Microservices, Automation
 
-> Membership Coordinator, <i>IEEE-DTU</i> <br>
-> Database Executive, <i>NSS-DTU</i> <br>
+## 🎓 Education
+- **B.Tech in Computer Engineering**
+  - Delhi Technological University (2018 - 2022) | **GPA:** 8.83 / 10.0
 
-### Technical Experience
+## 🏆 Achievements
+- **IEEE Richard - E - Merwin Scholarship Fall 2021**: Awarded for exemplary involvement in student chapter activities and academic excellence.
+- **WIE Best Paper Award (08/2021)**: Awarded at IEEE R10 Student Research Paper Contest.
+- **Outstanding Volunteer Award (07/2021)**: Recognized at IEEE Delhi Section Annual Award Ceremony.
 
-> Flutter Developer at <i>EnrichAI</i> <br>
-> Reach me at <a href='wa.me/919873388660'> WhatsApp</a>, <a href='https://www.linkedin.com/in/ranjanritwik/'> LinkedIn </a> <br>
-> Find my Resume @ bit.ly/ritwik_2k18co296 <br>
+## 🌐 Let's Connect!
+- [LinkedIn](https://linkedin.com/in/ranjanritwik)
+- [GitHub](https://github.com/ritwikranjan)
+- [Email](mailto:ritwikranjan99@gmail.com)
 
-
-<!--
-**ritwikranjan/ritwikranjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Interests
+Apart from coding, I have a keen interest in exploring the latest technologies, volunteering for meaningful causes, and indulging in fantasy worlds like *Witcher* and *Harry Potter*. I also enjoy cooking and reading novels in my spare time.
