@@ -26,4 +26,4 @@ I'm a results-driven software engineer with a passion for creating scalable, eff
 - [Email](mailto:ritwikranjan99@gmail.com)
 
 ## 🌱 Interests
-Apart from coding, I have a keen interest in exploring the latest technologies, volunteering for meaningful causes, and indulging in fantasy worlds like *Witcher* and *Harry Potter*. I also enjoy cooking and reading novels in my spare time.
+Apart from coding, I have a keen interest in exploring the latest technologies, volunteering for meaningful causes, and indulging in fantasy worlds like *Witcher*, *Assaisins Creed* and *Harry Potter*. I also enjoy cooking and reading novels in my spare time.
